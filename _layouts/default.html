@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <a href="{{ "/" | absolute_url }}">GABI C. GARCIA</a>
+
+        <br>
+
+        {% include navigation.html %}
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        <ul class="social-ul">
+          <li class="social-li"><a class="social" href="https://www.github.com/{{ site.github_username }}"><img src="/assets/images/social/fbsmall.png" alt="Github logo" width=10%/></a></li>
+          <li class="social-li"><a class="social" href="https://www.instagram.com/{{ site.instagram_username }}"><img src="/assets/images/social/insta.png" alt="Instagram logo" width=10%/></a></li>
+          <li class="social-li"><a class="social" href="https://www.linkedin.com/in/{{ site.linkedin_username }}"><img src="/assets/images/social/tumblr.png" alt="Linkedin logo" width=5%/></a></li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>
