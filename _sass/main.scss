@@ -1,8 +1,8 @@
 @import "fonts";
 
 .current {
-    color:270035;
-    font-weight: bold;
+    color:#270035;
+    text-decoration: underline;
     padding: 4px;
 }
 
@@ -49,12 +49,11 @@ li.social-li {
 }
 
 .nav:hover, .nav:focus {
-    font-weight: bold;
+    color: #6f0097;
 }
 
 .current:hover, .current:focus {
-    font-weight: bold;
-    color: white;
+    //font-weight: bold;
 }
 
 body {
@@ -94,8 +93,7 @@ a {
 }
 
 a:hover, a:focus {
-  color:#270035;
-  font-weight: bold;
+  color:#6f0097;
 }
 
 a small {
