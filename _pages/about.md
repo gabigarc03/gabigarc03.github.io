@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-A recent graduate of the University of Chicago, she holds an A.B. with honors in Classical Studies and an A.B. in Computer Science. 
+## About
+
+A recent graduate of the University of Chicago, Gabi C. Garcia holds an A.B. with honors in Classical Studies and an A.B. in Computer Science. 
 
 Her research work includes one of the largest contributions to the Harry Ransom Center’s [Theatre 2020](https://www.hrc.utexas.edu/theatre2020/) project to date, contributions to Drs. John Clegg and Adaner Usmani’s History of Punishment and Policing project, and a digital archive of the history of Hitchcock Hall, one of the oldest continuously operating residence halls at the University of Chicago. 
 

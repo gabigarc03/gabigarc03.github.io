@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Contact
-permalink: /contact/
+title: Writing
+permalink: /writing/
 ---
 
-## Contact
+## Writing
 
 This page is under construction.
