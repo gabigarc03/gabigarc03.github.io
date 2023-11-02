@@ -1,2 +1,8 @@
-- name: Home
+- name: HOME
   link: /
+- name: ABOUT
+  link: /about/
+- name: RESUME
+  link: /resume/
+- name: CONTACT
+  link: /contact/
