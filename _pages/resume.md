@@ -122,7 +122,7 @@ Scholarship awarded to exceptional Hispanic students pursuing technical degrees.
 **Thespian Playworks Finalist** - *The International Thespian Society, 2019* \
 One of four student playwrights selected nationally to workshop and present an original short play at the 2019 International Thespian Festival.
 
-**NCWIT Aspirations in Computing Award National Honorable Mention** - *The National Center for Women and Information Technology, 2019*
+**NCWIT Aspirations in Computing Award National Honorable Mention** - *The National Center for Women and Information Technology, 2019* \
 Award for my work in computer science and advocacy for women in computer science.
 
 **National Hispanic Scholar** - *National Hispanic Recognition Program, 2018*
