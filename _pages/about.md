@@ -32,7 +32,7 @@ Her plays have been featured at several festivals, including the International T
 
 [SHSGalbraith - Senior Interviews](https://sites.google.com/site/shsgalbraith/non-class-pages/senior-interviews/senior-interviews-2019?authuser=0) (June 5, 2019)
 
-[Boxcar Writing Labs Blog](https://www.boxcarwritinglabs.com/blog/the-future-is-female) - The Future is Female (May 14, 2019)
+[Boxcar Writing Labs Blog - The Future is Female](https://www.boxcarwritinglabs.com/blog/the-future-is-female) (May 14, 2019)
 
 [Portland Tribune - Bits & Pieces](https://pamplinmedia.com/pt/11-features/426947-333436-bits-and-pieces-pwoff) (April 29, 2019)
 
