@@ -119,7 +119,7 @@ Scholarship awarded to exceptional Hispanic students pursuing technical degrees.
 
 **University of Chicago National Merit Scholar** - *The University of Chicago & National Merit Corporation, 2019*
 
-**Thespian Playworks Finalist** - *The International Thespian Society, 2019* \
+**Thespian Playworks Finalist** - *International Thespian Society, 2019* \
 One of four student playwrights selected nationally to workshop and present an original short play at the 2019 International Thespian Festival.
 
 **NCWIT Aspirations in Computing Award National Honorable Mention** - *The National Center for Women and Information Technology, 2019* \
