@@ -44,9 +44,9 @@ Under the guidance of Profs. John Clegg (UChicago) and Adaner Usmani (Harvard) a
 * Developed a proof of concept for an innovative new feature in United’s Android mobile app
 
 **Court Theatre**, College Research in the Arts, Social Sciences, and Humanities Scholar (January 2021 - June 2021) 
-* Curated a digital archive documenting the effects of the events of 2020 on Court Theatre in collaboration with the Harry Ransom Center’s Theatre 2020 Project
+* Curated a digital archive documenting the effects of the events of 2020 on [Court Theatre](https://www.courttheatre.org/) in collaboration with the [Harry Ransom Center](https://www.hrc.utexas.edu/)’s [*Theatre 2020*](https://www.hrc.utexas.edu/theatre2020/) Project
 * Worked with Court Theatre resident dramaturg Nora Titone to develop a plan for document collection and ultimately collected over 400 digital artifacts
-* Presented my research at the 2021 University of Chicago Undergraduate Research Symposium
+* Presented [my research](https://drive.google.com/file/d/1a9VjP7P7p7JNI52gxK2A2JNnar-2Lj_a/view?usp=sharing) at the 2021 University of Chicago Undergraduate Research Symposium
 
 **Court Theatre**, Virtual Programming Technical Intern (October 2020 - December 2020)
 - Assisted actors and speakers in setting up technical equipment for Zoom and Streamyard
@@ -79,7 +79,7 @@ Under the guidance of Profs. John Clegg (UChicago) and Adaner Usmani (Harvard) a
 
 **The University of Chicago Scavenger Hunt**, Webmaster and Judge (June 2022 - present)
 - In conjunction with a collective of judges, coordinated and ran the world's largest annual scavenger hunt
-- Redesigned Scavenger Hunt website
+- Redesigned [Scavenger Hunt website](https://scavhunt.uchicago.edu/)
 - Maintained Scavenger Hunt website
 
 **The Section Six**, Editor-in-Chief (August 2022 - June 2023), Co-Editor-in-Chief (June 2021 - August 2022), Managing Editor (March 2020 - June 2021)
@@ -114,7 +114,7 @@ Under the guidance of Profs. John Clegg (UChicago) and Adaner Usmani (Harvard) a
 **Harper Award for Exceptional Performance in a Course** - *The University of Chicago, June 2023* \
 Awarded for exceptional work in CMSC 20370: Inclusive Technology: Designing for Underserved and Marginalized Populations, for which I designed and prototyped an application for users lacking mobility in one hand inspired by my own experiences with a sprained wrist.
 
-**HITEC Scholar** - *The HITEC Foundation, 2020 - 2023* \
+**HITEC Scholar** - *The HITEC Foundation, 2019 - 2022* \
 Scholarship awarded to exceptional Hispanic students pursuing technical degrees.
 
 **University of Chicago National Merit Scholar** - *The University of Chicago & National Merit Corporation, 2019*
@@ -133,4 +133,4 @@ Award for my work in computer science and advocacy for women in computer science
 English, Spanish, Ancient Greek, Modern Greek, Latin
 
 ### Technical Languages <small>*in a very rough order of proficiency*</small>
-C, TypeScript, Markdown, HTML, CSS, Python, Kotlin, Rust, JavaScript, Swift, Java, Haskell
+C, Markdown, HTML, CSS, TypeScript, LaTeX, Python, Kotlin, Rust, JavaScript, Swift, Java, Haskell
