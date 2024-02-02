@@ -6,4 +6,6 @@ permalink: /contact/
 
 ## Contact
 
-This page is under construction.
+You can reach me on my social media (linked in the footer) or at:
+
+gabigarc [zero] [three] [at] gmail [dot] com

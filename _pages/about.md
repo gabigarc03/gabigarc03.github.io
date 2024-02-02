@@ -6,13 +6,13 @@ permalink: /about/
 
 ## About
 
-A recent graduate of the University of Chicago, Gabi C. Garcia holds an A.B. with honors in Classical Studies and an A.B. in Computer Science. 
+A recent graduate of the University of Chicago, Gabriela Garcia holds an A.B. with honors in Classical Studies and an A.B. in Computer Science. 
 
-Her research work includes one of the largest contributions to the Harry Ransom Center’s [Theatre 2020](https://www.hrc.utexas.edu/theatre2020/) project to date, contributions to Drs. John Clegg and Adaner Usmani’s History of Punishment and Policing project, and a digital archive of the history of Hitchcock Hall, one of the oldest continuously operating residence halls at the University of Chicago. 
+Currently, she is an Associate in the [Early Career Digital Leadership Program](https://careers.united.com/us/en/innovate) at United Airlines. Other technical/vaguely computer-y work includes co-designing the [TM Gods](https://www.trismegistos.org/god/index.php) database, webmaster-ing for the [University of Chicago Scavenger Hunt](https://scavhunt.uchicago.edu/), and various digital archiving projects, including one of the largest contributions to the Harry Ransom Center’s [Theatre 2020](https://www.hrc.utexas.edu/theatre2020/) project.
 
-She also enjoys work that springboards off her research, previously serving as Editor-in-Chief of The Section Six, an annual discovered in and resurrected from her research on Hitchcock Hall.
+Her plays have been featured at several festivals, including the International Thespian Festival’s Thespian Playworks program, Portland Center Stage’s Visions and Voices showcase, the Oregon State Thespian Festival, the University of Chicago’s New Work Week, and the One-Minute Play Project’s Coronavirus Plays Project. She is published in [Dramatics Magazine](https://dramatics.org/) and by [Concord Theatricals](https://www.concordtheatricals.com/a/119740/gabi-garcia). Her writing, including a translation, on more classical matters has also appeared in the [Animus Classics Journal](https://voices.uchicago.edu/animus/).
 
-Her plays have been featured at several festivals, including the International Thespian Festival’s Thespian Playworks program, Portland Center Stage’s Visions and Voices showcase, the Oregon State Thespian Festival, the University of Chicago’s New Work Week, and the One-Minute Play Project’s Coronavirus Plays Project. She is published in Dramatics Magazine and by [Concord Theatricals](https://www.concordtheatricals.com/a/119740/gabi-garcia). [Her writing](https://chicagomaroon.com/staff_name/gabi-garcia/) has also been featured in the Chicago Maroon, the University of Chicago’s student newspaper.
+Gabriela is an Associate Member of the [Dramatists Guild](https://www.dramatistsguild.com/).
 
 ## Press
 

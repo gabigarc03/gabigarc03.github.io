@@ -12,10 +12,11 @@ permalink: /resume/
 ## Work Experience
 
 **United Airlines**, Early Career Digital Leadership Program Associate (August 2023 - present) \
-*Rotation 1: ORION Developer*
+*Rotation 1: ORION UI Developer*
 * Developed web components for ORION, an internal UX design library
 * Updated existing components to improve functionality
 * Participated in roadmapping future development
+* Gave presentations on ORION to a variety of audiences
 
 **The University of Chicago Department of Computer Science**, Teaching Assistant (March 2023 - May 2023) \
 Worked as a Teaching Assistant for the second course of the new introductory computer science sequence (CMSC 14200). In this role, I:
@@ -70,6 +71,11 @@ Under the guidance of Profs. John Clegg (UChicago) and Adaner Usmani (Harvard) a
 - Developed apps for applications for the Worldwide Developer Conference
 - Wrote two algorithms for the camp curriculum
 
+## Research
+
+**Trismegistos**, [TM Gods](https://www.trismegistos.org/god/) Database Co-Designer (September 2022 - May 2023)
+- Co-designed a database of Greek, Roman, and Egyptian gods for my undergraduate thesis in Classical Studies that is believed to be the first of its kind
+
 ## Leadership/Service
 
 **United Airlines**, Innovate Welcome Lead (September 2023 - present)
@@ -94,7 +100,7 @@ Under the guidance of Profs. John Clegg (UChicago) and Adaner Usmani (Harvard) a
 - Kept minutes at editor meetings
 
 **University Theater Committee**, Secretary (March 2021 - March 2022)
-- Served as a member of UChicago's University Theater Executive Committee
+- Served as a member of UChicago's [University Theater](https://ut.uchicago.edu/) Executive Committee
 - Founded University Theater’s Staged Readings program
 - Took minutes at Committee meetings
 
