@@ -12,6 +12,13 @@ permalink: /resume/
 ## Work Experience
 
 **United Airlines**, Early Career Digital Leadership Program Associate (August 2023 - present) \
+*Rotation 3: UX Designer - CoreUX* \
+*Rotation 2: Associate Threat Detection Engineer*
+* Attended Splunk .conf24 and Splunk University App Developer Bootcamp
+* Designed a proof of concept for a bespoke Threat Detection-as-Code solution
+* Used Splunk's REST API to develop said proof of concept
+
+
 *Rotation 1: ORION UI Developer*
 * Developed web components for ORION, an internal UX design library
 * Updated existing components to improve functionality
@@ -47,7 +54,7 @@ Under the guidance of Profs. John Clegg (UChicago) and Adaner Usmani (Harvard) a
 **Court Theatre**, College Research in the Arts, Social Sciences, and Humanities Scholar (January 2021 - June 2021) 
 * Curated a digital archive documenting the effects of the events of 2020 on [Court Theatre](https://www.courttheatre.org/) in collaboration with the [Harry Ransom Center](https://www.hrc.utexas.edu/)’s [*Theatre 2020*](https://www.hrc.utexas.edu/theatre2020/) Project
 * Worked with Court Theatre resident dramaturg Nora Titone to develop a plan for document collection and ultimately collected over 400 digital artifacts
-* Presented [my research](https://drive.google.com/file/d/1a9VjP7P7p7JNI52gxK2A2JNnar-2Lj_a/view?usp=sharing) at the 2021 University of Chicago Undergraduate Research Symposium
+* Presented [my research](https://drive.google.com/file/d/1N0gFJNCyW9sTvk1D_jHR61sXlnW8AJ0U/view?usp=sharing) at the 2021 University of Chicago Undergraduate Research Symposium
 
 **Court Theatre**, Virtual Programming Technical Intern (October 2020 - December 2020)
 - Assisted actors and speakers in setting up technical equipment for Zoom and Streamyard
@@ -78,15 +85,21 @@ Under the guidance of Profs. John Clegg (UChicago) and Adaner Usmani (Harvard) a
 
 ## Leadership/Service
 
-**United Airlines**, Innovate Welcome Lead (September 2023 - present)
-- Ran Slack groups for incoming ECDLP associates and Digital Technology interns
-- Collected FAQs and answers from appropriate sources
-- Wrote email communications and guides to ECDLP and the internship program
-
 **The University of Chicago Scavenger Hunt**, Webmaster and Judge (June 2022 - present)
 - In conjunction with a collective of judges, coordinated and ran the world's largest annual scavenger hunt
 - Redesigned [Scavenger Hunt website](https://scavhunt.uchicago.edu/)
 - Maintained Scavenger Hunt website
+
+**United Airlines**, Innovate Welcome Lead (September 2023 - August 2024)
+- Ran Slack groups for incoming ECDLP associates and Digital Technology interns
+- Collected FAQs and answers from appropriate sources
+- Wrote email communications and guides to ECDLP and the internship program, as well as a detailed housing guide for both Chicago and Houston
+
+**United Airlines**, DT Intern Case Study Lead (March 2024 - August 2024) \
+In conjunction with another Case Study Lead, I:
+- Collected seven unique business problems for intern teams to solve
+- Managed a team of ECDLP associates that directly supported intern teams
+- Planned and executed a half-day event in which over 40 interns presented solutions to real-world business problems in teams
 
 **The Section Six**, Editor-in-Chief (August 2022 - June 2023), Co-Editor-in-Chief (June 2021 - August 2022), Managing Editor (March 2020 - June 2021)
 - Revived the Hitchcock House annual after a 104-year hiatus
@@ -139,4 +152,7 @@ Award for my work in computer science and advocacy for women in computer science
 English, Spanish, Ancient Greek, Modern Greek, Latin
 
 ### Technical Languages <small>*in a very rough order of proficiency*</small>
-C, Markdown, HTML, CSS, TypeScript, LaTeX, Python, Kotlin, Rust, JavaScript, Swift, Java, Haskell
+TypeScript, JavaScript, HTML, CSS, Markdown, Python, C, LaTeX, Kotlin, Rust, Swift, Java, Haskell
+
+### Other Skills <small>*some more special than others and in no particular order*</small>
+Git, GitHub, writing (for the stage and otherwise), editing, research, Microsoft Office, cake decorating, public speaking, figuring out public transit systems, doing crosswords, running scavenger hunts, being passionate about being from Oregon
