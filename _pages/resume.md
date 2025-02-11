@@ -25,7 +25,7 @@ permalink: /resume/
 * Used Splunk's REST API to develop said proof of concept
 
 
-*Rotation 1: ORION UI Developer*
+*Rotation 1: UI Developer - ORION Design System*
 * Developed web components for ORION, an internal UX design library
 * Updated existing components to improve functionality
 * Participated in roadmapping future development
