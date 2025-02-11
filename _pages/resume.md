@@ -12,7 +12,13 @@ permalink: /resume/
 ## Work Experience
 
 **United Airlines**, Early Career Digital Leadership Program Associate (August 2023 - present) \
-*Rotation 3: UX Designer - CoreUX* \
+*Rotation 4: Developer - ORION Design System* \
+*Rotation 3: UX Designer - CoreUX*
+* Created and updated designs for a variety of informational pages on United.com in collaboration with strategists, copywriters, and developers
+* Leveraged Atmos, United's customer-facing design system, to ensure adherence to brand guidelines as well as design consistency and accessibility
+* Designed and prototyped a novel proof of concept for the United app in conjunction with a team of stakeholders
+
+
 *Rotation 2: Associate Threat Detection Engineer*
 * Attended Splunk .conf24 and Splunk University App Developer Bootcamp
 * Designed a proof of concept for a bespoke Threat Detection-as-Code solution
@@ -152,7 +158,7 @@ Award for my work in computer science and advocacy for women in computer science
 English, Spanish, Ancient Greek, Modern Greek, Latin
 
 ### Technical Languages <small>*in a very rough order of proficiency*</small>
-TypeScript, JavaScript, HTML, CSS, Markdown, Python, C, LaTeX, Kotlin, Rust, Swift, Java, Haskell
+TypeScript, JavaScript, HTML, CSS, Markdown, Python, LaTeX, C, Rust, Kotlin, Swift, Java, Haskell
 
 ### Other Skills <small>*some more special than others and in no particular order*</small>
-Git, GitHub, writing (for the stage and otherwise), editing, research, Microsoft Office, cake decorating, public speaking, figuring out public transit systems, doing crosswords, running scavenger hunts, being passionate about being from Oregon
+Git, GitHub, writing (for the stage and otherwise), editing, research, Microsoft Office, cake decorating, public speaking, figuring out public transit systems, doing crosswords, running scavenger hunts
