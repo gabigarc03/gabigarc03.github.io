@@ -7,7 +7,11 @@
 }
 
 .nav {
-    color: #4f006b;
+  color: #4f006b;
+}
+
+nav {
+  width: fit-content;
 }
 
 ul.nav-ul {
@@ -18,6 +22,7 @@ ul.nav-ul {
   padding-bottom: 48px;
   font-size: 16px;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding-left: 0;
 }
 
 ul.social-ul {
@@ -131,6 +136,9 @@ section {
 
 header {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 footer {
@@ -222,6 +230,9 @@ hr {
 
   header {
     padding-right:320px;
+    nav {
+      width: fit-content;
+    }
   }
 
   section {
@@ -250,6 +261,10 @@ hr {
 
   header {
     padding:0;
+
+    nav {
+      width: fit-content;
+    }
   }
 
   header ul, header p.view {
@@ -265,6 +280,10 @@ hr {
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;
+  }
+
+  nav {
+    width: fit-content;
   }
 }
 
