@@ -4,28 +4,39 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">GABRIELA GARCIA</a></h1>
-
-        <br>
+        <span class="logo-link"><a href="{{ "/" | absolute_url }}">g.c. garcia</a></span>
 
         {% include navigation.html %}
-
-        <p style="padding-bottom:20px;">please excuse the mess - this website is under construction.</p>
 
       </header>
       <section>
         {{ content }}
       </section>
       <footer>
-        <ul class="social-ul">
-          <li class="social-li"><a class="social" href="https://www.github.com/{{ site.github_username }}"><img src="/assets/svgs/github.svg" alt="Github logo" width="32px"/></a></li>
-          <li class="social-li"><a class="social" href="https://www.linkedin.com/in/{{ site.linkedin_username }}"><img src="/assets/svgs/linkedin.svg" alt="Linkedin logo" width="32px"/></a></li>
+        <a class="social" href="https://www.github.com/{{ site.github_username }}">
+          {% include socials/gh.html %}
+        </a>
+        <a class="social" href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+          {% include socials/ln.html %}
+        </a>
         </ul>
       </footer>
     </div>
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const links = document.querySelectorAll('a');
+        links.forEach(link => {
+          if (link.hostname !== window.location.hostname) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+          }
+        });
+      });
+    </script>
   </body>
 </html>

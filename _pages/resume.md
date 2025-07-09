@@ -4,32 +4,51 @@ title: Resume
 permalink: /resume/
 ---
 
-## Education
+# resume
 
-**The University of Chicago**, Chicago, Illinois \
-**A.B. Classical Studies (with honors), A.B. Computer Science**, June 2023
+## skills
 
-## Work Experience
+### technical languages
+TypeScript, JavaScript, HTML, CSS, Markdown, Swift, Rust, Python, LaTeX, C, Kotlin, Java, Haskell
+
+### technical competencies
+Git/GitHub, StencilJS, design systems, UX design, Figma, StorybookJS, ReactJS, digital accessibility, REST APIs, documentation
+
+### certifications/credentials
+[GitHub Foundations](https://www.credly.com/badges/e917c2ce-68ec-461c-babe-b98a153fbd65/linked_in_profile), United Airlines [Leadership Institute - Credential II](https://www.credly.com/badges/175dd419-27a9-46f1-8f95-e384974c9759/linked_in_profile)
+
+### human languages
+English, Spanish, Ancient Greek, Modern Greek, Latin
+
+### other skills <small>*some more special than others and in no particular order*</small>
+Communication, organization, event planning, writing, editing, teaching, research, Microsoft Office, public speaking, figuring out public transit systems, biking, doing crosswords, running scavenger hunts
+
+## work experience
 
 **United Airlines**, Early Career Digital Leadership Program Associate (August 2023 - present) \
-*Rotation 4: Developer - ORION Design System* \
+*Rotation 4: iOS Developer - ORION Design System*
+- Surveyed iOS developers working on employee-facing products to evaluate their desires for an official ORION iOS library
+- Architected an iOS-specific version of the ORION component library compatible with both SwiftUI and UIKit
+- Contributed documentation and automated process improvements to better support developers using the web library
+
+
 *Rotation 3: UX Designer - CoreUX*
-* Created and updated designs for a variety of informational pages on United.com in collaboration with strategists, copywriters, and developers
-* Leveraged Atmos, United's customer-facing design system, to ensure adherence to brand guidelines as well as design consistency and accessibility
-* Designed and prototyped a novel proof of concept for the United app in conjunction with a team of stakeholders
+- Created and updated Figma designs for a [variety](https://www.united.com/en/us/fly/travel/trip-planning/travel-add-ons.html) [of](https://www.united.com/en/us/fly/travel/inflight/basic-economy.html) [informational](https://www.united.com/en/us/fly/new-united-fleet-experience.html) [pages](https://www.united.com/en/us/fly/travel/inflight/starlink-wifi.html) [on](https://www.united.com/en/us/fly/travel/airport/united-club-membership.html) [the](https://www.united.com/en/us/fly/company/company-info/awards.html) [United website](https://www.united.com/) in collaboration with strategists, copywriters, and developers
+- Leveraged Atmos, United's customer-facing design system, to ensure adherence to brand guidelines as well as design consistency and accessibility
+- Designed and prototyped a novel proof of concept for the United app in conjunction with a team of stakeholders that could generate up to $12.6M in annual revenue
 
 
 *Rotation 2: Associate Threat Detection Engineer*
-* Attended Splunk .conf24 and Splunk University App Developer Bootcamp
-* Designed a proof of concept for a bespoke Threat Detection-as-Code solution
-* Used Splunk's REST API to develop said proof of concept
+- Researched Threat Detection-as-Code solutions that integrate the Splunk API and GitHub Actions
+- Developed a proof of concept for a bespoke Detection-as-Code solution that improved team efficiency using Python, GitHub Actions, and the Splunk API
+- Attended Splunk .conf24 and Splunk University App Developer Bootcamp
 
 
 *Rotation 1: UI Developer - ORION Design System*
-* Developed web components for ORION, an internal UX design library
-* Updated existing components to improve functionality
-* Participated in roadmapping future development
-* Gave presentations on ORION to a variety of audiences
+- Developed and updated web components using TypeScript, HTML, and CSS to enhance ORION, an internal design system for employee-facing applications
+- Updated existing components to improve functionality
+- Participated in planning future development of the design system
+- Gave presentations on ORION to a variety of audiences, raising awareness of design system best practices and time saving possibilities
 
 **The University of Chicago Department of Computer Science**, Teaching Assistant (March 2023 - May 2023) \
 Worked as a Teaching Assistant for the second course of the new introductory computer science sequence (CMSC 14200). In this role, I:
@@ -39,8 +58,9 @@ Worked as a Teaching Assistant for the second course of the new introductory com
 * Collaborated with a team of instructors, TAs, and graders to improve the course
 
 **United Airlines**, Digital Technology Intern (June 2022 - September 2022)
-* Developed a proof of concept application for in-terminal airport kiosks
-* Collaborated with other interns on a case study project to advance United’s business strategy and presented it to the Digital Technology division
+- Developed application using Kotlin for in-terminal airport kiosks in collaboration with other developers
+- Collaborated with fellow interns on a case study project to advance United’s business strategy and presented it to the Digital Technology division
+- Developed a proof of concept application for the kiosks to better support visually impaired customers
 
 **International Thespian Festival**, Teaching Artist (June 2022)
 * Designed and taught "Take Out the Trash: Writing Badly to Write Well", a playwriting workshop
@@ -53,9 +73,9 @@ Under the guidance of Profs. John Clegg (UChicago) and Adaner Usmani (Harvard) a
 * Computationally processed large, multinational datasets
 
 **United Airlines**, Digital Technology Intern (June 2021 - September 2021)
-* Developed UI and other elements of the Travel Ready Center for United’s Android mobile app
-* Collaborated with other interns on a case study project to advance United’s business strategy and presented it to the Digital Technology division
-* Developed a proof of concept for an innovative new feature in United’s Android mobile app
+- Developed UI and other elements of the Travel Ready Center in Kotlin for United’s Android mobile app
+- Collaborated with other interns on a case study project to advance United’s business strategy and presented it to the Digital Technology division, ultimately winning the case study competition
+- Developed a proof of concept for an innovative new feature in United’s Android mobile app to improve usability
 
 **Court Theatre**, College Research in the Arts, Social Sciences, and Humanities Scholar (January 2021 - June 2021) 
 * Curated a digital archive documenting the effects of the events of 2020 on [Court Theatre](https://www.courttheatre.org/) in collaboration with the [Harry Ransom Center](https://www.hrc.utexas.edu/)’s [*Theatre 2020*](https://www.hrc.utexas.edu/theatre2020/) Project
@@ -84,22 +104,31 @@ Under the guidance of Profs. John Clegg (UChicago) and Adaner Usmani (Harvard) a
 - Developed apps for applications for the Worldwide Developer Conference
 - Wrote two algorithms for the camp curriculum
 
-## Research
+## education
+
+**The University of Chicago**, Chicago, Illinois \
+**A.B. Classical Studies (with honors), A.B. Computer Science**, June 2023
+
+## research
 
 **Trismegistos**, [TM Gods](https://www.trismegistos.org/god/) Database Co-Designer (September 2022 - May 2023)
-- Co-designed a database of Greek, Roman, and Egyptian gods for my undergraduate thesis in Classical Studies that is believed to be the first of its kind
+- Co-designed a first-of-its-kind database of Greek, Roman, and Egyptian gods for my undergraduate thesis in Classical Studies
 
-## Leadership/Service
+## leadership/service
 
 **The University of Chicago Scavenger Hunt**, Webmaster and Judge (June 2022 - present)
-- In conjunction with a collective of judges, coordinated and ran the world's largest annual scavenger hunt
-- Redesigned [Scavenger Hunt website](https://scavhunt.uchicago.edu/)
-- Maintained Scavenger Hunt website
+- In conjunction with a collective of judges, I coordinate and run the world's largest annual scavenger hunt
+- Redesigned the [Scavenger Hunt website](https://scavhunt.uchicago.edu/)
+- Maintain Scavenger Hunt website
+
+**United Airlines**, ECDLP Hub Frontend Developer (February 2024 - present)
+- Collaborated with a cross-functional team to develop a React.js website that centralizes program information
+- Advocated for stronger adoption of the ORION design system and supported its implementation across the website
+- Refactored all components on the site to enhance functionality and organization in preparation for dark mode
 
 **United Airlines**, Innovate Welcome Lead (September 2023 - August 2024)
-- Ran Slack groups for incoming ECDLP associates and Digital Technology interns
-- Collected FAQs and answers from appropriate sources
-- Wrote email communications and guides to ECDLP and the internship program, as well as a detailed housing guide for both Chicago and Houston
+- Sent incoming ECDLP associates and interns Slack and email communications and guides to ECDLP and the internship, improving pre-hire preparation for a professional work environment
+- Wrote a detailed housing guide for both Chicago and Houston to support incoming associates new to either city
 
 **United Airlines**, DT Intern Case Study Lead (March 2024 - August 2024) \
 In conjunction with another Case Study Lead, I:
@@ -122,6 +151,7 @@ In conjunction with another Case Study Lead, I:
 - Served as a member of UChicago's [University Theater](https://ut.uchicago.edu/) Executive Committee
 - Founded University Theater’s Staged Readings program
 - Took minutes at Committee meetings
+- Maintained the University Theater website
 
 **Court Theatre**, Strategic Planning Committe Member (June 2021 - November 2021)
 - Represented all students at the University of Chicago as a member of the University subcommittee
@@ -134,7 +164,7 @@ In conjunction with another Case Study Lead, I:
 - Edited article submissions
 - Wrote articles on Chicago theatre and UChicago theatre
 
-## Awards and Recognition
+## awards and recognition
 
 **Harper Award for Exceptional Performance in a Course** - *The University of Chicago, June 2023* \
 Awarded for exceptional work in CMSC 20370: Inclusive Technology: Designing for Underserved and Marginalized Populations, for which I designed and prototyped an application for users lacking mobility in one hand inspired by my own experiences with a sprained wrist.
@@ -151,14 +181,3 @@ One of four student playwrights selected nationally to workshop and present an o
 Award for my work in computer science and advocacy for women in computer science.
 
 **National Hispanic Scholar** - *National Hispanic Recognition Program, 2018*
-
-## Skills
-
-### Human Languages <small>*in order of proficiency*</small>
-English, Spanish, Ancient Greek, Modern Greek, Latin
-
-### Technical Languages <small>*in a very rough order of proficiency*</small>
-TypeScript, JavaScript, HTML, CSS, Markdown, Python, LaTeX, C, Rust, Kotlin, Swift, Java, Haskell
-
-### Other Skills <small>*some more special than others and in no particular order*</small>
-Git, GitHub, writing (for the stage and otherwise), editing, research, Microsoft Office, cake decorating, public speaking, figuring out public transit systems, doing crosswords, running scavenger hunts

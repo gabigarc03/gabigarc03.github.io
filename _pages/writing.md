@@ -4,13 +4,15 @@ title: Writing
 permalink: /writing/
 ---
 
-## Academic Writing
+# writing
+
+## academic writing
 
 **Animus Classics Journal**
 * [Ode to Love (from Sophocles’ Antigone)](https://www.yumpu.com/en/document/view/66958042/animus-classics-journal-vol-2-issue-2) (Print journal - June 1, 2022)
 * [Aristophanes’s Nukterides](https://voices.uchicago.edu/animus/2022/05/23/aristophaness-nukterides/) (Blog - May 23, 2022)
 
-## Playwriting
+## playwriting
 
 *Ismene*
 * Produced at the 2019 International Thespian Festival
@@ -30,7 +32,7 @@ permalink: /writing/
 * Performed at Sunset High School’s 2018 One Acts Festival
 * Read at Portland Center Stage’s 2018 Visions and Voices showcase
 
-## Journalism
+## journalism
 **The Chicago Maroon**
 * [Everybody Should Be Talking About Jamie](https://chicagomaroon.com/article/2021/10/13/everybody-talking-jamie/) (October 13, 2021)
 * [Over a Century of House Culture: The Story of Snell-Hitchcock](https://www.chicagomaroon.com/article/2021/3/9/century-house-culture-story-snell-hitchcock/) (March 9, 2021 - co-written with Solana Adedokun)

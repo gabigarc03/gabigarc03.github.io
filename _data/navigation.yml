@@ -1,10 +1,10 @@
-- name: HOME
+- name: home
   link: /
-- name: ABOUT
+- name: about
   link: /about/
-- name: RESUME
+- name: resume
   link: /resume/
-- name: WRITING
+- name: writing
   link: /writing/
-- name: CONTACT
+- name: contact
   link: /contact/

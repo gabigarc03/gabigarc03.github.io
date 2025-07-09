@@ -26,10 +26,12 @@ github_username:  gabigarc03
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
 strict_front_matter: true 
 include:
   - _pages
+
+open_url: true
+ignore_theme_config: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
