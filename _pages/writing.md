@@ -6,12 +6,6 @@ permalink: /writing/
 
 # writing
 
-## academic writing
-
-**Animus Classics Journal**
-* [Ode to Love (from Sophocles’ Antigone)](https://www.yumpu.com/en/document/view/66958042/animus-classics-journal-vol-2-issue-2) (Print journal - June 1, 2022)
-* [Aristophanes’s Nukterides](https://voices.uchicago.edu/animus/2022/05/23/aristophaness-nukterides/) (Blog - May 23, 2022)
-
 ## playwriting
 
 *Ismene*
@@ -31,6 +25,12 @@ permalink: /writing/
     * Won Chapter Select for performance
 * Performed at Sunset High School’s 2018 One Acts Festival
 * Read at Portland Center Stage’s 2018 Visions and Voices showcase
+
+## academic writing
+
+**Animus Classics Journal**
+* [Ode to Love (from Sophocles’ Antigone)](https://www.yumpu.com/en/document/view/66958042/animus-classics-journal-vol-2-issue-2) (Print journal - June 1, 2022)
+* [Aristophanes’s Nukterides](https://voices.uchicago.edu/animus/2022/05/23/aristophaness-nukterides/) (Blog - May 23, 2022)
 
 ## journalism
 **The Chicago Maroon**

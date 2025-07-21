@@ -38,7 +38,7 @@ Communication, organization, event planning, writing, editing, teaching, researc
 - Designed and prototyped a novel proof of concept for the United app in conjunction with a team of stakeholders that could generate up to $12.6M in annual revenue
 
 
-*Rotation 2: Associate Threat Detection Engineer*
+*Rotation 2: Associate Threat Detection Engineer - Cyber Defense*
 - Researched Threat Detection-as-Code solutions that integrate the Splunk API and GitHub Actions
 - Developed a proof of concept for a bespoke Detection-as-Code solution that improved team efficiency using Python, GitHub Actions, and the Splunk API
 - Attended Splunk .conf24 and Splunk University App Developer Bootcamp
