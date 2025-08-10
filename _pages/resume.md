@@ -12,7 +12,7 @@ permalink: /resume/
 TypeScript, JavaScript, HTML, CSS, Markdown, Swift, Rust, Python, LaTeX, C, Kotlin, Java, Haskell
 
 ### technical competencies
-Git/GitHub, StencilJS, design systems, UX design, Figma, StorybookJS, ReactJS, digital accessibility, REST APIs, documentation
+Git/GitHub, StencilJS, design systems, UX design, Figma, StorybookJS, ReactJS, digital accessibility, REST APIs, documentation, shell scripting
 
 ### certifications/credentials
 [GitHub Foundations](https://www.credly.com/badges/e917c2ce-68ec-461c-babe-b98a153fbd65/linked_in_profile), United Airlines [Leadership Institute - Credential II](https://www.credly.com/badges/175dd419-27a9-46f1-8f95-e384974c9759/linked_in_profile)
