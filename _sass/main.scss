@@ -99,6 +99,13 @@ body {
         
         p {
           text-align: center;
+
+          img {
+            width:300px;
+            height:300px;
+            border-radius: 50%;
+            object-fit: cover;
+          }
         }
       }
     }
@@ -287,6 +294,13 @@ body {
         margin-top: 32px;
       }
     }
+  }
+}
+
+@media print, screen and (max-width: 348px) {
+  body > .wrapper > section > .home > p > img {
+    width: 250px;
+    height: 250px;
   }
 }
 
