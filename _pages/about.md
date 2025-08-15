@@ -8,7 +8,7 @@ permalink: /about/
 
 I am a jack-of-all-trades (and master of some!).
 
-Thanks to the [Early Career Digital Leadership Program](https://careers.united.com/us/en/innovate) at United Airlines, I am experienced in frontend development, UX design, cybersecurity, and more. Other technical work includes co-designing the [TM Gods](https://www.trismegistos.org/god/index.php) database, webmaster-ing for the [University of Chicago Scavenger Hunt](https://scavhunt.uchicago.edu/), and various digital archiving projects, including one of the largest contributions to the Harry Ransom Center’s [Theatre 2020](https://www.hrc.utexas.edu/theatre2020/) project.
+Currently, I work as a .NET developer on the Pilot Records team at United Airlines. Thanks to United's [Early Career Digital Leadership Program](https://careers.united.com/us/en/innovate), I am also experienced in frontend development, UX design, cybersecurity, and more. Other technical work includes co-designing the [TM Gods](https://www.trismegistos.org/god/index.php) database, webmaster-ing for the [University of Chicago Scavenger Hunt](https://scavhunt.uchicago.edu/), and various digital archiving projects, including one of the largest contributions to the Harry Ransom Center’s [Theatre 2020](https://www.hrc.utexas.edu/theatre2020/) project.
 
 My plays have been featured at several festivals, including the International Thespian Festival’s Thespian Playworks program, Portland Center Stage’s Visions and Voices showcase, the Oregon State Thespian Festival, the University of Chicago’s New Work Week, and the One-Minute Play Project’s Coronavirus Plays Project. I am published in [Dramatics Magazine](https://dramatics.org/) and by [Concord Theatricals](https://www.concordtheatricals.com/a/119740/gabi-garcia). My writing, including a translation, on more classical matters has also appeared in the [Animus Classics Journal](https://voices.uchicago.edu/animus/).
 
@@ -16,7 +16,7 @@ I attended the University of Chicago, where I received an A.B. with honors in Cl
 
 I am an Associate Member of the [Dramatists Guild](https://www.dramatistsguild.com/).
 
-My Erdős–Bacon–Sabbath number is roughly 14.
+My [Erdős–Bacon–Sabbath number](https://en.wikipedia.org/wiki/Erd%C5%91s_number#Variations) is roughly 14.
 
 ## press
 

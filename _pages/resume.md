@@ -25,9 +25,13 @@ Communication, organization, event planning, writing, editing, teaching, researc
 
 ## work experience
 
-**United Airlines**, Early Career Digital Leadership Program Associate (August 2023 - present) \
+**United Airlines**, .NET Developer - Pilot Records (August 2025 - present)
+- Supporting .NET upgrades on Pilot Records, an internal application for the Flight Operations team
+
+
+**United Airlines**, Early Career Digital Leadership Program Associate (August 2023 - August 2025)\
 *Rotation 4: iOS Developer - ORION Design System*
-- Surveyed iOS developers working on employee-facing products to evaluate their desires for an official ORION iOS library
+- Conducted UX research with iOS developers working on employee-facing products to evaluate their desires for an official ORION iOS library
 - Architected an iOS-specific version of the ORION component library compatible with both SwiftUI and UIKit
 - Contributed documentation and automated process improvements to better support developers using the web library
 
