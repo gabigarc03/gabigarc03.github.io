@@ -30,25 +30,25 @@ Communication, organization, event planning, writing, editing, teaching, researc
 
 
 **United Airlines**, Early Career Digital Leadership Program Associate (August 2023 - August 2025)\
-*Rotation 4: iOS Developer - ORION Design System*
+*Rotation 4: iOS Developer - ORION Design System* (February 2025 - August 2025)
 - Conducted UX research with iOS developers working on employee-facing products to evaluate their desires for an official ORION iOS library
 - Architected an iOS-specific version of the ORION component library compatible with both SwiftUI and UIKit
 - Contributed documentation and automated process improvements to better support developers using the web library
 
 
-*Rotation 3: UX Designer - CoreUX*
+*Rotation 3: UX Designer - CoreUX* (August 2024 - February 2025)
 - Created and updated Figma designs for a [variety](https://www.united.com/en/us/fly/travel/trip-planning/travel-add-ons.html) [of](https://www.united.com/en/us/fly/travel/inflight/basic-economy.html) [informational](https://www.united.com/en/us/fly/new-united-fleet-experience.html) [pages](https://www.united.com/en/us/fly/travel/inflight/starlink-wifi.html) [on](https://www.united.com/en/us/fly/travel/airport/united-club-membership.html) [the](https://www.united.com/en/us/fly/company/company-info/awards.html) [United website](https://www.united.com/) in collaboration with strategists, copywriters, and developers
 - Leveraged Atmos, United's customer-facing design system, to ensure adherence to brand guidelines as well as design consistency and accessibility
 - Designed and prototyped a novel proof of concept for the United app in conjunction with a team of stakeholders that could generate up to $12.6M in annual revenue
 
 
-*Rotation 2: Associate Threat Detection Engineer - Cyber Defense*
+*Rotation 2: Associate Threat Detection Engineer - Cyber Defense* (February 2024 - August 2024)
 - Researched Threat Detection-as-Code solutions that integrate the Splunk API and GitHub Actions
 - Developed a proof of concept for a bespoke Detection-as-Code solution that improved team efficiency using Python, GitHub Actions, and the Splunk API
 - Attended Splunk .conf24 and Splunk University App Developer Bootcamp
 
 
-*Rotation 1: UI Developer - ORION Design System*
+*Rotation 1: UI Developer - ORION Design System* (August 2023 - February 2024)
 - Developed and updated web components using TypeScript, HTML, and CSS to enhance ORION, an internal design system for employee-facing applications
 - Updated existing components to improve functionality
 - Participated in planning future development of the design system
