@@ -8,6 +8,6 @@ permalink: /
 
 ![Gabriela Garcia](/assets/images/headshot.JPG)
 
-I am a writer and software developer, among other things.
+I am a writer and software developer currently seeking work in London, England.
 
 </div>

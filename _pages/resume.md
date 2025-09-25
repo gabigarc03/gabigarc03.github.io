@@ -25,8 +25,9 @@ Communication, organization, event planning, writing, editing, teaching, researc
 
 ## work experience
 
-**United Airlines**, .NET Developer - Pilot Records (August 2025 - present)
-- Supporting .NET upgrades on Pilot Records, an internal application for the Flight Operations team
+**United Airlines**, .NET Developer - Pilot Records (August 2025 - September 2025)
+- Supported .NET upgrades on Pilot Records, an internal application for the Flight Operations team
+- Consolidated necessary software requests and initial setup instructions into a guide that accelerated the onboarding process
 
 
 **United Airlines**, Early Career Digital Leadership Program Associate (August 2023 - August 2025)\
@@ -125,7 +126,7 @@ Under the guidance of Profs. John Clegg (UChicago) and Adaner Usmani (Harvard) a
 - Redesigned the [Scavenger Hunt website](https://scavhunt.uchicago.edu/)
 - Maintain Scavenger Hunt website
 
-**United Airlines**, ECDLP Hub Frontend Developer (February 2024 - present)
+**United Airlines**, ECDLP Hub Frontend Developer (February 2024 - August 2025)
 - Collaborated with a cross-functional team to develop a React.js website that centralizes program information
 - Advocated for stronger adoption of the ORION design system and supported its implementation across the website
 - Refactored all components on the site to enhance functionality and organization in preparation for dark mode
