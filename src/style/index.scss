@@ -1,0 +1,145 @@
+@import 'fonts';
+@import 'colors';
+
+html, body {
+  background-color: var(--color-background-default-light);
+  font: 14px/1.5 'Proxima Nova', "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: var(--color-text-body-default);
+  font-weight: 400;
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  transition: 200ms ease-in-out;
+}
+
+p {
+  margin-bottom: 8px;
+}
+
+p, li {
+  font-size: 16px;
+  max-width: 768px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-text-header-default);
+  font-family: 'Noto Mono';
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+a {
+  color: var(--color-text-link-default);
+  text-decoration:none;
+
+  &:hover {
+    color: var(--color-text-link-hover);
+    text-decoration: underline;
+  }
+
+  &:focus {
+    color: var(--color-text-link-pressed);
+  }
+}
+
+a small {
+  font-size:11px;
+  margin-top:-0.3em;
+  display:block;
+}
+
+blockquote {
+  border-left:1px solid #e5e5e5;
+  margin:0;
+  font-style:italic;
+}
+
+pre {
+  padding: 8px 15px;
+  background: #f8f8f8;
+  border-radius: 5px;
+  border:1px solid #e5e5e5;
+  overflow-x: auto;
+}
+
+table {
+  width:100%;
+  border-collapse:collapse;
+}
+
+th, td {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+  border-right:1px solid #e5e5e5;
+}
+
+dt {
+  color:#444;
+  font-weight:700;
+}
+
+th {
+  color:black;
+}
+
+img {
+  max-width:100%;
+}
+
+kbd {
+  background-color: #fafbfc;
+  border: 1px solid #c6cbd1;
+  border-bottom-color: #959da5;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #959da5;
+  color: #444d56;
+  display: inline-block;
+  font-size: 11px;
+  line-height: 10px;
+  padding: 3px 5px;
+  vertical-align: middle;
+}
+
+strong {
+  font-weight:700;
+}
+
+small {
+  font-size:11px;
+}
+
+hr {
+  border:0;
+  background:#e5e5e5;
+  height:1px;
+  margin:0 0 20px;
+}
+
+ul, ol {
+  margin-bottom: 8px;
+}
+
+@media print, screen and (max-width: 800px) {
+  p, li {
+    font-size: 18px;
+  }
+}
+
+@media print, screen and (max-width: 320px) {
+  body {
+    word-wrap:break-word;
+
+    pre, code {
+      word-wrap:normal;
+    }
+  }
+}

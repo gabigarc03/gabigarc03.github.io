@@ -1,0 +1,25 @@
+.nav-button {
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Noto Mono';
+
+  color: var(--color-text-link-default);
+
+  &:hover {
+    color: var(--color-text-link-hover);
+    text-decoration: var(--color-text-body-default) wavy underline 1.5px;
+  }
+
+  &:focus {
+    color: var(--color-text-link-pressed);
+  }
+
+  &--active {
+    color: var(--color-text-link-pressed);
+    text-decoration: var(--color-text-body-default) wavy underline 1.5px;
+
+    &:hover {
+      color: var(--color-text-link-default);
+    }
+  }
+}
