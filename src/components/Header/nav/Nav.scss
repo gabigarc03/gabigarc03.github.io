@@ -1,15 +1,13 @@
-footer {
-  margin-top: 56px;
+nav {
   display: flex;
   flex-direction: row;
-  gap: 56px;
-  padding: 16px 32px;
+  gap: 4px 32px;
+  flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
 }
 
 @media print, screen and (max-width: 800px) {
-  footer {
-    margin-top: 32px;
+  nav {
+    width: fit-content;
   }
 }

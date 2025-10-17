@@ -1,11 +1,18 @@
 body {
-
   .content {
     display: flex;
-    min-height: 100vh;
-    line-height: 1.1;
-    text-align: center;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
+    min-height: 100vh;
+    gap: 16px;
+  }
+}
+
+@media print, screen and (max-width: 800px) {
+  body {
+    .content {
+      width: auto;
+      margin: 0;
+    }
   }
 }

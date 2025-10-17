@@ -1,17 +1,19 @@
-import { h, Component } from 'preact';
+import { Component } from 'preact';
 import './NavButton.scss';
 
 /**
- * Nav button component.
- * href: link to navigate to
- * isActive: whether the nav link is active
+ * Nav button props
+ * - href: link to navigate to
+ * - isActive: whether nav button is the active page
  */
-
 interface NavButtonProps {
   href: string;
   isActive: boolean;
 }
 
+/**
+ * Nav button component for header.
+ */
 export default class NavButton extends Component<NavButtonProps> {
   constructor(props: NavButtonProps) {
     super(props);
@@ -23,7 +25,10 @@ export default class NavButton extends Component<NavButtonProps> {
 
   render({ href }: NavButtonProps) {
     return (
-      <a class={this.getCSSClasses()} href={href}>
+      <a class={this.getCSSClasses()} 
+        href={href} 
+        id={href === '/' ? 'home' : href.substring(1)}
+        key={href === '/' ? 'home' : href.substring(1)}>
         {this.props.children}
       </a>
     );

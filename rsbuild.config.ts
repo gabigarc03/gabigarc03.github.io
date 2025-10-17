@@ -9,10 +9,7 @@ export default defineConfig({
       rewriteUrls: false,
     }),
   ],
-  output: {
-    sourceMap: true,
-  },
-  tools: {
-    lightningcssLoader: false,
+  html: {
+    title: 'Preact Redo',
   },
 });
