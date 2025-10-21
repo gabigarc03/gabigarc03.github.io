@@ -5,7 +5,9 @@ section {
   justify-content: start;
   align-items: start;
   flex-direction: column;
-  min-height: calc(100vh - 300px);
+  min-height: calc(100vh - 226px);
+  transition: 200ms ease-in-out;
+  flex-grow: 1;
 
   &.home {
     display: flex;
@@ -32,10 +34,17 @@ section {
 @media print, screen and (max-width: 800px) {
   section {
     padding: 0 24px;
+    min-height: calc(100vh - 248px);
         
     p, li {
       font-size: 18px;
     }
+  }
+}
+
+@media print, screen and (max-width: 540px) {
+  section {
+    min-height: calc(100vh - 276px);
   }
 }
 

@@ -7,7 +7,7 @@ export default defineConfig({
     pluginPreact(),
     pluginSass({
       rewriteUrls: false,
-    }),
+    })
   ],
   html: {
     title: 'Preact Redo',

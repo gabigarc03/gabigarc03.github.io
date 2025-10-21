@@ -2,7 +2,7 @@ body {
   .content {
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    justify-content: space-between;
     min-height: 100vh;
     gap: 16px;
   }

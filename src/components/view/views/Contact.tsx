@@ -1,5 +1,5 @@
 import { Component } from 'preact';
-import View from '../components/view/View';
+import View from '../View';
 
 export default class Contact extends Component {
   render () {

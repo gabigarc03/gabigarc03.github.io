@@ -1,6 +1,6 @@
 import { Component } from 'preact';
-import View from '../components/view/View';
-import ResumeRole from '../components/resume/Role';
+import View from '../View';
+import ResumeRole from '../../resume/Role';
 
 export default class Resume extends Component {
   render () {
