@@ -1,9 +1,11 @@
 @import 'fonts';
 @import 'colors';
 
-html, body {
+html,
+body {
   background-color: var(--color-background-default-light);
-  font: 14px/1.5 'Proxima Nova', "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 'Proxima Nova', 'Noto Sans', 'Helvetica Neue', Helvetica, Arial,
+    sans-serif;
   color: var(--color-text-body-default);
   font-weight: 400;
   padding: 0;
@@ -20,12 +22,18 @@ p {
   margin-bottom: 8px;
 }
 
-p, li {
+p,
+li {
   font-size: 16px;
   max-width: 768px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: var(--color-text-header-default);
   font-family: 'Noto Mono';
   margin-top: 8px;
@@ -38,7 +46,7 @@ h1 {
 
 a {
   color: var(--color-text-link-default);
-  text-decoration:none;
+  text-decoration: none;
 
   &:hover {
     color: var(--color-text-link-hover);
@@ -51,48 +59,49 @@ a {
 }
 
 a small {
-  font-size:11px;
-  margin-top:-0.3em;
-  display:block;
+  font-size: 11px;
+  margin-top: -0.3em;
+  display: block;
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
-  margin:0;
-  font-style:italic;
+  border-left: 1px solid #e5e5e5;
+  margin: 0;
+  font-style: italic;
 }
 
 pre {
   padding: 8px 15px;
   background: #f8f8f8;
   border-radius: 5px;
-  border:1px solid #e5e5e5;
+  border: 1px solid #e5e5e5;
   overflow-x: auto;
 }
 
 table {
-  width:100%;
-  border-collapse:collapse;
+  width: 100%;
+  border-collapse: collapse;
 }
 
-th, td {
-  text-align:left;
-  padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
-  border-right:1px solid #e5e5e5;
+th,
+td {
+  text-align: left;
+  padding: 5px 10px;
+  border-bottom: 1px solid #e5e5e5;
+  border-right: 1px solid #e5e5e5;
 }
 
 dt {
-  color:#444;
-  font-weight:700;
+  color: #444;
+  font-weight: 700;
 }
 
 th {
-  color:black;
+  color: black;
 }
 
 img {
-  max-width:100%;
+  max-width: 100%;
 }
 
 kbd {
@@ -110,36 +119,39 @@ kbd {
 }
 
 strong {
-  font-weight:700;
+  font-weight: 700;
 }
 
 small {
-  font-size:11px;
+  font-size: 11px;
 }
 
 hr {
-  border:0;
-  background:#e5e5e5;
-  height:1px;
-  margin:0 0 20px;
+  border: 0;
+  background: #e5e5e5;
+  height: 1px;
+  margin: 0 0 20px;
 }
 
-ul, ol {
+ul,
+ol {
   margin-bottom: 8px;
 }
 
 @media print, screen and (max-width: 800px) {
-  p, li {
+  p,
+  li {
     font-size: 18px;
   }
 }
 
 @media print, screen and (max-width: 320px) {
   body {
-    word-wrap:break-word;
+    word-wrap: break-word;
 
-    pre, code {
-      word-wrap:normal;
+    pre,
+    code {
+      word-wrap: normal;
     }
   }
 }

@@ -8,7 +8,7 @@ export interface NavData {
   name: string;
   href: string;
   isActive: boolean;
-};
+}
 
 // Portfolio card link data interface
 /**

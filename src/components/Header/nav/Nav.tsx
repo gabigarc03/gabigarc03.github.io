@@ -4,6 +4,7 @@ import './Nav.scss';
 import NavButton from '../nav-button/NavButton';
 import { NavLinks } from '../../../shared/data/navigation';
 import { NavData } from '../../../shared/data/types';
+import { lazy } from 'preact-iso';
 
 /**
  * Navigation component for the header.
@@ -20,11 +21,25 @@ export default function Nav() {
     return path === '/' ? 'home' : path.substring(1);
   }
 
+  const getComponent = (name: string) => {
+    console.log(`${name[0].toUpperCase()}${name.substring(1)}`);
+    return `${name[0].toUpperCase()}${name.substring(1)}`;
+  };
+
   return (
     <nav>
       {NavLinks.map((link: NavData) => {
-        return(
-          <NavButton href={link.href} isActive={link.name === activePage ? true : false}>{link.name}</NavButton>
+        const page = lazy(
+          () => import(`../../view/views/${getComponent(link.name)}`)
+        );
+        return (
+          <NavButton
+            href={link.href}
+            isActive={link.name === activePage}
+            onMouseOver={() => page.preload()}
+          >
+            {link.name}
+          </NavButton>
         );
       })}
     </nav>

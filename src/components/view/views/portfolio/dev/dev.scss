@@ -1,0 +1,53 @@
+.dev {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 768px;
+
+  h1 {
+    margin-bottom: 0;
+  }
+
+  .role-and-dates {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .skills-and-tech {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 24px;
+
+    li {
+      margin-left: -1.5em;
+    }
+  }
+}
+
+img {
+  width: 100%;
+  object-fit: contain;
+}
+
+@media screen and (max-width: 800px) {
+  .dev {
+    .skills-and-tech {
+      li {
+        margin-left: -1em;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 348px) {
+  .dev {
+    .role-and-dates {
+      justify-content: center;
+    }
+  }
+}
