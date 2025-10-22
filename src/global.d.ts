@@ -5,12 +5,13 @@
 declare global {
   namespace preact.JSX {
     interface IntrinsicElements {
-      'tech-card': { 
-        href: string,
-        image: string,
-        onMouseOver?: () => void,
-        children: ComponentChildren
-      },
+      'tech-card': {
+        href: string;
+        image: string;
+        style?: string;
+        onMouseOver?: () => void;
+        children: ComponentChildren;
+      };
     }
   }
 }

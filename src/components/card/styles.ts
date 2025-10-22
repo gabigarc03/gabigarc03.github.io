@@ -32,6 +32,7 @@ cardStyles.replaceSync(`
         width: 100%;
         object-fit: var(--tech-card-object-fit-image);
         transition: 100ms ease-in-out;
+        object-position: top;
       }
     }
     

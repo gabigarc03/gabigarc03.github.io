@@ -59,8 +59,9 @@ class Tech extends Component {
             return (
               <tech-card
                 href={proj.href}
-                image={require(`../../../assets/images/${proj.imageSrc}`)}
+                image={require(`../../../assets/images/portfolio/design/${proj.imageSrc}`)}
                 onMouseOver={() => Component.preload()}
+                style='--tech-card-object-fit-image: cover;'
               >
                 <span slot='title'>{proj.name}</span>
                 <span slot='desc'>{proj.desc}</span>
