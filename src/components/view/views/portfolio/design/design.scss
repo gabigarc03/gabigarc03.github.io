@@ -1,4 +1,13 @@
 .design {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+
+  h2,
+  h3 {
+    margin: 0;
+  }
+
   .summary-and-image {
     display: flex;
     flex-flow: row wrap;
@@ -6,6 +15,8 @@
 
     .summary {
       width: calc(50% - 8px);
+      display: flex;
+      flex-direction: column;
 
       .summary-data {
         display: flex;
@@ -21,16 +32,46 @@
           }
         }
       }
+
+      a {
+        margin-top: 8px;
+      }
     }
 
     .image {
       width: calc(50% - 8px);
-      overflow: hidden;
+      overflow-y: scroll;
+      border-radius: 8px 8px 0 0;
+      height: 300px;
+      border: 4px solid var(--color-border-dark);
+      border-bottom: 0;
+      background-color: black;
 
       img {
         width: 100%;
       }
     }
+  }
+
+  .background,
+  .goals,
+  .process,
+  .learnings {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .goals-items,
+  .learnings-items {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    justify-content: space-evenly;
+  }
+
+  .link-back {
+    align-self: center;
   }
 }
 
@@ -43,6 +84,19 @@
       .image {
         width: 100%;
       }
+
+      .summary {
+        a {
+          margin-top: 8px;
+          align-self: center;
+        }
+      }
+    }
+
+    .goals-items,
+    .learnings-items {
+      flex-direction: column;
+      gap: 4px;
     }
   }
 }

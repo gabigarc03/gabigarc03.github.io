@@ -23,7 +23,8 @@ p {
 }
 
 p,
-li {
+li,
+a {
   font-size: 16px;
   max-width: 768px;
 }
@@ -140,7 +141,8 @@ ol {
 
 @media print, screen and (max-width: 800px) {
   p,
-  li {
+  li,
+  a {
     font-size: 18px;
   }
 }
