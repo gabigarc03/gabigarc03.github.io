@@ -10,7 +10,7 @@ export default defineConfig({
     }),
   ],
   html: {
-    title: 'Preact Redo',
+    title: 'G.C. Garcia',
   },
   output: {
     assetPrefix: '/gabigarc03.github.io/',
