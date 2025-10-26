@@ -14,15 +14,13 @@ class Tech extends Component {
         <h2>dev work</h2>
         <div class='card-grid' style='padding-bottom: 32px;'>
           {Portfolio.filter(proj => proj.type === 'dev').map(proj => {
-            const projNameSplit = proj.href.split('/');
-            const projName = projNameSplit[projNameSplit.length - 1];
+            const projNameSplit = proj.href.substring(1);
+            const projUrlSplit = projNameSplit.split('-');
+            const projName = projUrlSplit[projUrlSplit.length - 1];
             const componentName = () => {
-              const linkArray = projName.split('-');
-              return linkArray.reduce((str, substr) => {
-                return `${str}${substr[0].toUpperCase()}${substr
-                  .substring(1)
-                  .toLowerCase()}`;
-              }, '');
+              return `${projName[0].toUpperCase()}${projName
+                .substring(1)
+                .toLowerCase()}`;
             };
             const Component = lazy(
               () => import(`./portfolio/dev/${componentName()}`)
@@ -43,15 +41,13 @@ class Tech extends Component {
         <h2>design work</h2>
         <div class='card-grid'>
           {Portfolio.filter(proj => proj.type === 'design').map(proj => {
-            const projNameSplit = proj.href.split('/');
-            const projName = projNameSplit[projNameSplit.length - 1];
+            const projNameSplit = proj.href.substring(1);
+            const projUrlSplit = projNameSplit.split('-');
+            const projName = projUrlSplit[projUrlSplit.length - 1];
             const componentName = () => {
-              const linkArray = projName.split('-');
-              return linkArray.reduce((str, substr) => {
-                return `${str}${substr[0].toUpperCase()}${substr
-                  .substring(1)
-                  .toLowerCase()}`;
-              }, '');
+              return `${projName[0].toUpperCase()}${projName
+                .substring(1)
+                .toLowerCase()}`;
             };
             const Component = lazy(
               () => import(`./portfolio/design/${componentName()}`)

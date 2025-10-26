@@ -10,6 +10,11 @@ import Resume from './components/view/views/Resume';
 import Contact from './components/view/views/Contact';
 import PortfolioPage from './components/view/views/portfolio/PortfolioPage';
 import NotFound from './components/view/views/NotFound';
+import Scav from './components/view/views/portfolio/dev/Scav';
+import Starlink from './components/view/views/portfolio/design/Starlink';
+import Brightline from './components/view/views/portfolio/design/Brightline';
+import Awards from './components/view/views/portfolio/design/Awards';
+import Coupon from './components/view/views/portfolio/design/Coupon';
 
 const App = () => {
   return (
@@ -25,6 +30,11 @@ const App = () => {
             <Route path='/writing' component={Writing} />
             <Route path='/resume' component={Resume} />
             <Route path='/contact' component={Contact} />
+            <Route path='/tech-dev-scav' component={Scav} />
+            <Route path='/tech-design-starlink' component={Starlink} />
+            <Route path='/tech-design-brightline' component={Brightline} />
+            <Route path='/tech-design-awards' component={Awards} />
+            <Route path='/tech-design-coupon' component={Coupon} />
             <Route default component={NotFound} />
           </Router>
           <Footer />
