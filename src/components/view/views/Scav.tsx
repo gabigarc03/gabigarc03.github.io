@@ -1,6 +1,6 @@
 import { Component } from 'preact';
-import View from '../../../View';
-import './dev.scss';
+import View from '../View';
+import '../../../shared/style/dev.scss';
 
 export default class Scav extends Component {
   render() {
@@ -94,7 +94,7 @@ export default class Scav extends Component {
         </div>
         <img
           alt='Scav Hunt website home page'
-          src={require('../../../../../assets/images/portfolio/dev/scav-home.png')}
+          src={require('../../../assets/images/portfolio/dev/scav-home.png')}
           class='scav-image'
         />
       </View>

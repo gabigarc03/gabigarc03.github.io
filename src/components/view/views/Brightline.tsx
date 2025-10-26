@@ -1,6 +1,6 @@
 import { Component } from 'preact';
-import View from '../../../View';
-import './design.scss';
+import View from '../View';
+import '../../../shared/style/design.scss';
 
 export default class Brightline extends Component {
   render() {
@@ -38,7 +38,7 @@ export default class Brightline extends Component {
             <div class='image'>
               <img
                 alt='United Brightline landing page on desktop'
-                src={require('../../../../../assets/images/portfolio/design/brightline-desktop-open.png')}
+                src={require('../../../assets/images/portfolio/design/brightline-desktop-open.png')}
               />
             </div>
           </div>

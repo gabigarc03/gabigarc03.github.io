@@ -1,6 +1,6 @@
 import { Component } from 'preact';
-import View from '../../../View';
-import './design.scss';
+import View from '../View';
+import '../../../shared/style/design.scss';
 
 export default class Starlink extends Component {
   render() {
@@ -40,7 +40,7 @@ export default class Starlink extends Component {
             <div class='image'>
               <img
                 alt='United Starlink landing page on desktop'
-                src={require('../../../../../assets/images/portfolio/design/starlink-desktop.png')}
+                src={require('../../../assets/images/portfolio/design/starlink-desktop.png')}
               />
             </div>
           </div>

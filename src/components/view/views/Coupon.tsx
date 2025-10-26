@@ -1,6 +1,6 @@
 import { Component } from 'preact';
-import View from '../../../View';
-import './design.scss';
+import View from '../View';
+import '../../../shared/style/design.scss';
 
 export default class Coupon extends Component {
   render() {
@@ -37,7 +37,7 @@ export default class Coupon extends Component {
             <div class='image'>
               <img
                 alt='United coupon landing page template on desktop'
-                src={require('../../../../../assets/images/portfolio/design/coupon-desktop-open.png')}
+                src={require('../../../assets/images/portfolio/design/coupon-desktop-open.png')}
               />
             </div>
           </div>
