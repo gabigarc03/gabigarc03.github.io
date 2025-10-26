@@ -6,82 +6,98 @@ export default class About extends Component {
     return (
       <View name='about'>
         <h1>about</h1>
-        <p>I am a jack-of-all-trades (and master of some!).</p>
-        <p>
-          Currently, I am seeking a London-based frontend/fullstack software
-          engineering or UX design role. Prior to my recent move to the UK on a{' '}
-          <a
-            href='https://www.gov.uk/high-potential-individual-visa'
-            target='_blank'
-          >
-            High Potential Individual visa
-          </a>
-          , I briefly worked as a .NET developer on the Pilot Records team at
-          United Airlines after graduating from United's{' '}
-          <a href='https://careers.united.com/us/en/innovate' target='_blank'>
-            Early Career Digital Leadership Program
-          </a>
-          . Thanks to ECDLP, I am also experienced in frontend development, UX
-          design, cybersecurity, and more. Other technical work includes
-          co-designing the{' '}
-          <a href='https://www.trismegistos.org/god/index.php' target='_blank'>
-            TM Gods
-          </a>{' '}
-          database, webmaster-ing for the{' '}
-          <a href='https://scavhunt.uchicago.edu/' target='_blank'>
-            University of Chicago Scavenger Hunt
-          </a>
-          , and various digital archiving projects, including one of the largest
-          contributions to the Harry Ransom Center’s{' '}
-          <a href='https://www.hrc.utexas.edu/theatre2020/' target='_blank'>
-            Theatre 2020
-          </a>{' '}
-          project.
-        </p>
-        <p>
-          My plays have been featured at several festivals, including the
-          International Thespian Festival’s Thespian Playworks program, Portland
-          Center Stage’s Visions and Voices showcase, the Oregon State Thespian
-          Festival, the University of Chicago’s New Work Week, and the
-          One-Minute Play Project’s Coronavirus Plays Project. I am published in{' '}
-          <a href='https://dramatics.org/' target='_blank'>
-            Dramatics Magazine
-          </a>{' '}
-          and by{' '}
-          <a
-            href='https://www.concordtheatricals.com/a/119740/gabi-garcia'
-            target='_blank'
-          >
-            Concord Theatricals
-          </a>
-          . My writing, including a translation, on more classical matters has
-          also appeared in the{' '}
-          <a href='https://voices.uchicago.edu/animus/' target='_blank'>
-            Animus Classics Journal
-          </a>
-          .
-        </p>
-        <p>
-          I attended the University of Chicago, where I received an A.B. with
-          honors in Classical Studies and an A.B. in Computer Science.
-        </p>
-        <p>
-          I am an Associate Member of the{' '}
-          <a href='https://www.dramatistsguild.com/' target='_blank'>
-            Dramatists Guild
-          </a>
-          .
-        </p>
-        <p>
-          My{' '}
-          <a
-            href='https://en.wikipedia.org/wiki/Erd%C5%91s_number#Variations'
-            target='_blank'
-          >
-            Erdős–Bacon–Sabbath number
-          </a>{' '}
-          is roughly 14.
-        </p>
+        <div class='about-and-image'>
+          <div class='about-text'>
+            <p>I am a jack-of-all-trades (and master of some!).</p>
+            <p>
+              Currently, I am seeking a London-based frontend/fullstack software
+              engineering or UX design role. Prior to my recent move to the UK
+              on a{' '}
+              <a
+                href='https://www.gov.uk/high-potential-individual-visa'
+                target='_blank'
+              >
+                High Potential Individual visa
+              </a>
+              , I briefly worked as a .NET developer on the Pilot Records team
+              at United Airlines after graduating from United's{' '}
+              <a
+                href='https://careers.united.com/us/en/innovate'
+                target='_blank'
+              >
+                Early Career Digital Leadership Program
+              </a>
+              . Thanks to ECDLP, I am also experienced in frontend development,
+              UX design, cybersecurity, and more. Other technical work includes
+              co-designing the{' '}
+              <a
+                href='https://www.trismegistos.org/god/index.php'
+                target='_blank'
+              >
+                TM Gods
+              </a>{' '}
+              database, webmaster-ing for the{' '}
+              <a href='https://scavhunt.uchicago.edu/' target='_blank'>
+                University of Chicago Scavenger Hunt
+              </a>
+              , and various digital archiving projects, including one of the
+              largest contributions to the Harry Ransom Center’s{' '}
+              <a href='https://www.hrc.utexas.edu/theatre2020/' target='_blank'>
+                Theatre 2020
+              </a>{' '}
+              project.
+            </p>
+            <p>
+              My plays have been featured at several festivals, including the
+              International Thespian Festival’s Thespian Playworks program,
+              Portland Center Stage’s Visions and Voices showcase, the Oregon
+              State Thespian Festival, the University of Chicago’s New Work
+              Week, and the One-Minute Play Project’s Coronavirus Plays Project.
+              I am published in{' '}
+              <a href='https://dramatics.org/' target='_blank'>
+                Dramatics Magazine
+              </a>{' '}
+              and by{' '}
+              <a
+                href='https://www.concordtheatricals.com/a/119740/gabi-garcia'
+                target='_blank'
+              >
+                Concord Theatricals
+              </a>
+              . My writing, including a translation, on more classical matters
+              has also appeared in the{' '}
+              <a href='https://voices.uchicago.edu/animus/' target='_blank'>
+                Animus Classics Journal
+              </a>
+              .
+            </p>
+            <p>
+              I attended the University of Chicago, where I received an A.B.
+              with honors in Classical Studies and an A.B. in Computer Science.
+            </p>
+            <p>
+              I am an Associate Member of the{' '}
+              <a href='https://www.dramatistsguild.com/' target='_blank'>
+                Dramatists Guild
+              </a>
+              .
+            </p>
+            <p>
+              My{' '}
+              <a
+                href='https://en.wikipedia.org/wiki/Erd%C5%91s_number#Variations'
+                target='_blank'
+              >
+                Erdős–Bacon–Sabbath number
+              </a>{' '}
+              is roughly 14.
+            </p>
+          </div>
+          <img
+            src={require('../../../assets/images/headshot-about.jpg')}
+            alt='Gabi Garcia, laughing, stands on a tree stump'
+          />
+        </div>
 
         <h2>press</h2>
         <p>

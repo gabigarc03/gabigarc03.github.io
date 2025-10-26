@@ -95,6 +95,7 @@ export default class Scav extends Component {
         <img
           alt='Scav Hunt website home page'
           src={require('../../../../../assets/images/portfolio/dev/scav-home.png')}
+          class='scav-image'
         />
       </View>
     );

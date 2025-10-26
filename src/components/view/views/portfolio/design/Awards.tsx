@@ -42,8 +42,8 @@ export default class Awards extends Component {
             </div>
             <div class='image'>
               <img
-                alt='United Awards landing page on desktop'
-                src={require('../../../../../assets/images/portfolio/design/awards-desktop-closed.png')}
+                alt='United awards landing page on desktop'
+                src={require('../../../../../assets/images/portfolio/design/awards-desktop-open.png')}
               />
             </div>
           </div>
@@ -154,9 +154,9 @@ export default class Awards extends Component {
                 <p>
                   My development background had me inclined to reject the
                   feedback of "non-experts". Through this design process, I
-                  learned how to understand critical feedback from stakeholders
-                  as an opportunity to explore, rather than as an indication of
-                  my failings.
+                  learned to understand critical feedback from stakeholders as
+                  an opportunity to explore, rather than as an indication of my
+                  failings.
                 </p>
               </div>
               <div class='learnings-item'>

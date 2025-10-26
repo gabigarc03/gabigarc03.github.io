@@ -7,9 +7,12 @@ export default defineConfig({
     pluginPreact(),
     pluginSass({
       rewriteUrls: false,
-    })
+    }),
   ],
   html: {
     title: 'Preact Redo',
+  },
+  output: {
+    assetPrefix: '/gabigarc03.github.io/',
   },
 });

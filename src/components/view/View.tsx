@@ -13,16 +13,13 @@ interface ViewProps {
  * View component for all pages on the site.
  */
 export default class View extends Component<ViewProps> {
-
   getCSSClasses = () => {
-    return `view ${this.props.name === 'home' ? 'home' : ''}`;
+    return `view ${this.props.name}`;
   };
 
   render() {
     return (
-      <section class={this.getCSSClasses()}>
-        {this.props.children}
-      </section>
+      <section class={this.getCSSClasses()}>{this.props.children}</section>
     );
   }
 }
