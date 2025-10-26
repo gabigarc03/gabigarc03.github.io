@@ -1,0 +1,34 @@
+{
+  "name": "rsbuild-preact-ts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "rsbuild build",
+    "dev": "rsbuild dev --open",
+    "preview": "rsbuild preview"
+  },
+  "dependencies": {
+    "@rsbuild/plugin-node-polyfill": "^1.4.2",
+    "@rspack/core": "^1.5.8",
+    "@types/node": "^24.9.0",
+    "fs": "0.0.1-security",
+    "preact": "^10.27.2",
+    "preact-custom-element": "^4.5.1",
+    "preact-head": "^1.0.3",
+    "preact-iso": "^2.11.0",
+    "react": "npm:@preact/compat@^18.3.1",
+    "react-dom": "npm:@preact/compat@^18.3.1",
+    "react-redux": "^9.2.0",
+    "styled-components": "^6.1.19"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^1.5.17",
+    "@rsbuild/plugin-preact": "^1.5.2",
+    "@rsbuild/plugin-sass": "^1.4.0",
+    "preactheadmaster": "^1.0.0",
+    "sass": "^1.93.2",
+    "sass-loader": "^16.0.5",
+    "typescript": "^5.9.3"
+  }
+}

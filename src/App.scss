@@ -1,0 +1,18 @@
+body {
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    gap: 16px;
+  }
+}
+
+@media print, screen and (max-width: 800px) {
+  body {
+    .content {
+      width: auto;
+      margin: 0;
+    }
+  }
+}

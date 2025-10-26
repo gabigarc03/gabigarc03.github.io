@@ -1,5 +1,17 @@
-_site
-.sass-cache
-.jekyll-metadata
+# Local
 .DS_Store
-node_modules/
+*.local
+*.log*
+pnpm-lock.yaml
+
+# Dist
+node_modules
+dist/
+
+# Profile
+.rspack-profile-*/
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
