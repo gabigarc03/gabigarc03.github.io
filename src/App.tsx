@@ -30,11 +30,11 @@ const App = () => {
             <Route path='/writing' component={Writing} />
             <Route path='/resume' component={Resume} />
             <Route path='/contact' component={Contact} />
-            <Route path='/scav' component={Scav} />
-            <Route path='/starlink' component={Starlink} />
-            <Route path='/brightline' component={Brightline} />
-            <Route path='/awards' component={Awards} />
-            <Route path='/coupon' component={Coupon} />
+            <Route path='/tech-dev-scav' component={Scav} />
+            <Route path='/tech-design-starlink' component={Starlink} />
+            <Route path='/tech-design-brightline' component={Brightline} />
+            <Route path='/tech-design-awards' component={Awards} />
+            <Route path='/tech-design-coupon' component={Coupon} />
             <Route default component={NotFound} />
           </Router>
           <Footer />
