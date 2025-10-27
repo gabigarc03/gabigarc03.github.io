@@ -14,7 +14,4 @@ export default defineConfig({
   html: {
     title: 'G.C. Garcia',
   },
-  output: {
-    assetPrefix: '/gabigarc03.github.io/',
-  },
 });
