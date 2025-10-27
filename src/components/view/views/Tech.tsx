@@ -20,7 +20,9 @@ class Tech extends Component {
                 .substring(1)
                 .toLowerCase()}`;
             };
-            const Component = lazy(() => import(`./${componentName()}`));
+            const Component = lazy(
+              () => import(`./portfolio/dev/${componentName()}`)
+            );
             return (
               <tech-card
                 href={proj.href}
@@ -43,7 +45,9 @@ class Tech extends Component {
                 .substring(1)
                 .toLowerCase()}`;
             };
-            const Component = lazy(() => import(`./${componentName()}`));
+            const Component = lazy(
+              () => import(`./portfolio/design/${componentName()}`)
+            );
             return (
               <tech-card
                 href={proj.href}

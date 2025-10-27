@@ -1,6 +1,6 @@
 import { Component } from 'preact';
-import View from '../View';
-import '../../../shared/style/design.scss';
+import View from '../../../View';
+import './design.scss';
 
 export default class Awards extends Component {
   render() {
@@ -43,7 +43,7 @@ export default class Awards extends Component {
             <div class='image'>
               <img
                 alt='United awards landing page on desktop'
-                src={require('../../../assets/images/portfolio/design/awards-desktop-open.png')}
+                src={require('../../../../../assets/images/portfolio/design/awards-desktop-open.png')}
               />
             </div>
           </div>

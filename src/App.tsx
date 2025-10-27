@@ -10,11 +10,11 @@ import Resume from './components/view/views/Resume';
 import Contact from './components/view/views/Contact';
 import PortfolioPage from './components/view/views/portfolio/PortfolioPage';
 import NotFound from './components/view/views/NotFound';
-import Scav from './components/view/views/Scav';
-import Starlink from './components/view/views/Starlink';
-import Brightline from './components/view/views/Brightline';
-import Awards from './components/view/views/Awards';
-import Coupon from './components/view/views/Coupon';
+import Scav from './components/view/views/portfolio/dev/Scav';
+import Starlink from './components/view/views/portfolio/design/Starlink';
+import Brightline from './components/view/views/portfolio/design/Brightline';
+import Awards from './components/view/views/portfolio/design/Awards';
+import Coupon from './components/view/views/portfolio/design/Coupon';
 
 const App = () => {
   return (
