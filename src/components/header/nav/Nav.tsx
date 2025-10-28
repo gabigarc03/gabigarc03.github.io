@@ -22,7 +22,6 @@ export default function Nav() {
   }
 
   const getComponent = (name: string) => {
-    console.log(`${name[0].toUpperCase()}${name.substring(1)}`);
     return `${name[0].toUpperCase()}${name.substring(1)}`;
   };
 
