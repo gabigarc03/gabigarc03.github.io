@@ -8,7 +8,10 @@ export default class About extends Component {
         <h1>about</h1>
         <div class='about-and-image'>
           <div class='about-text'>
-            <p>I am a jack-of-all-trades (and master of some!).</p>
+            <p>
+              I am a frontend-leaning fullstack software engineer and UX
+              designer.
+            </p>
             <p>
               Currently, I am seeking a London-based frontend/fullstack software
               engineering or UX design role. Prior to my recent move to the UK
@@ -19,8 +22,8 @@ export default class About extends Component {
               >
                 High Potential Individual visa
               </a>
-              , I briefly worked as a .NET developer on the Pilot Records team
-              at United Airlines after graduating from United's{' '}
+              , I briefly worked as a fullstack software engineer on the Pilot
+              Records team at United Airlines after graduating from United's{' '}
               <a
                 href='https://careers.united.com/us/en/innovate'
                 target='_blank'
@@ -28,8 +31,10 @@ export default class About extends Component {
                 Early Career Digital Leadership Program
               </a>
               . Thanks to ECDLP, I am also experienced in frontend development,
-              UX design, cybersecurity, and more. Other technical work includes
-              co-designing the{' '}
+              UX design, cybersecurity, and more.
+            </p>
+            <p>
+              Other technical work includes co-designing the{' '}
               <a
                 href='https://www.trismegistos.org/god/index.php'
                 target='_blank'
@@ -37,12 +42,18 @@ export default class About extends Component {
                 TM Gods
               </a>{' '}
               database, webmaster-ing for the{' '}
-              <a href='https://scavhunt.uchicago.edu/' target='_blank'>
+              <a
+                href='https://scavhunt.uchicago.edu/'
+                target='_blank'
+              >
                 University of Chicago Scavenger Hunt
               </a>
               , and various digital archiving projects, including one of the
               largest contributions to the Harry Ransom Center’s{' '}
-              <a href='https://www.hrc.utexas.edu/theatre2020/' target='_blank'>
+              <a
+                href='https://www.hrc.utexas.edu/theatre2020/'
+                target='_blank'
+              >
                 Theatre 2020
               </a>{' '}
               project.
@@ -54,7 +65,10 @@ export default class About extends Component {
               State Thespian Festival, the University of Chicago’s New Work
               Week, and the One-Minute Play Project’s Coronavirus Plays Project.
               I am published in{' '}
-              <a href='https://dramatics.org/' target='_blank'>
+              <a
+                href='https://dramatics.org/'
+                target='_blank'
+              >
                 Dramatics Magazine
               </a>{' '}
               and by{' '}
@@ -66,7 +80,10 @@ export default class About extends Component {
               </a>
               . My writing, including a translation, on more classical matters
               has also appeared in the{' '}
-              <a href='https://voices.uchicago.edu/animus/' target='_blank'>
+              <a
+                href='https://voices.uchicago.edu/animus/'
+                target='_blank'
+              >
                 Animus Classics Journal
               </a>
               .
@@ -77,7 +94,10 @@ export default class About extends Component {
             </p>
             <p>
               I am an Associate Member of the{' '}
-              <a href='https://www.dramatistsguild.com/' target='_blank'>
+              <a
+                href='https://www.dramatistsguild.com/'
+                target='_blank'
+              >
                 Dramatists Guild
               </a>
               .
@@ -139,7 +159,10 @@ export default class About extends Component {
           (May 6, 2020)
         </p>
         <p>
-          <a href='https://vimeo.com/398398843' target='_blank'>
+          <a
+            href='https://vimeo.com/398398843'
+            target='_blank'
+          >
             Fourcast Labs - Terrarium Game Documentary
           </a>{' '}
           (March 17, 2020)
@@ -164,7 +187,10 @@ export default class About extends Component {
           (October 12, 2019)
         </p>
         <p>
-          <a href='https://www.victoriapayne.com/passiontopic' target='_blank'>
+          <a
+            href='https://www.victoriapayne.com/passiontopic'
+            target='_blank'
+          >
             Turn Your Passion into a Winning Essay Topic
           </a>{' '}
           (May 14, 2019)
