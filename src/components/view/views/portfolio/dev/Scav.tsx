@@ -16,7 +16,10 @@ export default class Scav extends Component {
             <h2>overview</h2>
             <p>
               Website for the{' '}
-              <a href='https://scavhunt.uchicago.edu/' target='_blank'>
+              <a
+                href='https://scavhunt.uchicago.edu/'
+                target='_blank'
+              >
                 University of Chicago Scavenger Hunt
               </a>
               , the world's largest annual scavenger hunt.
@@ -92,11 +95,19 @@ export default class Scav extends Component {
             </p>
           </div>
         </div>
-        <img
-          alt='Scav Hunt website home page'
-          src={require('../../../../../assets/images/portfolio/dev/scav-home.png')}
-          class='scav-image'
-        />
+        <div class='img-and-link'>
+          <img
+            alt='Scav Hunt website home page'
+            src={require('../../../../../assets/images/portfolio/dev/scav-home.png')}
+            class='scav-image'
+          />
+          <a
+            href='/tech'
+            class='link-back'
+          >
+            <h3>◄ back to my portfolio</h3>
+          </a>
+        </div>
       </View>
     );
   }
