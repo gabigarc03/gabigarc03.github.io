@@ -4,6 +4,7 @@ cardStyles.replaceSync(`
   :host {
     --tech-card-color-border: var(--color-border-default);
     --tech-card-object-fit-image: contain;
+    --tech-card-object-position-image: center top;
     transition: 200ms ease-in-out;
   }
 
@@ -32,7 +33,7 @@ cardStyles.replaceSync(`
         width: 100%;
         object-fit: var(--tech-card-object-fit-image);
         transition: 100ms ease-in-out;
-        object-position: top;
+        object-position: var(--tech-card-object-position-image);
       }
     }
     
@@ -59,16 +60,18 @@ cardStyles.replaceSync(`
   
   @media print, screen and (max-width: 450px) {
     .card {
-      max-width: auto;
-      width: 100%;
+      max-width: 100%;
+      width: calc(100vw - 48px);
 
       .img-container{
         height: 200px;
-        max-width: 100%;
+        width: 100%;
         img {
+          object-fit: var(--tech-card-object-fit-image);
           height: 200px;
           max-height: 200px;
-          max-width: 100%;
+          width: 100%;
+          object-position: var(--tech-card-object-position-image);
         }
       }
     }

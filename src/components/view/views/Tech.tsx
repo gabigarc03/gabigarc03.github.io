@@ -20,6 +20,7 @@ class Tech extends Component {
               <tech-card
                 href={proj.href}
                 image={require(`../../../assets/images/portfolio/dev/${proj.imageSrc}`)}
+                style='--tech-card-object-position-image: center center;'
               >
                 <span slot='title'>{proj.name}</span>
                 <span slot='desc'>{proj.desc}</span>
