@@ -6,7 +6,7 @@ import Home from './components/view/views/Home';
 import About from './components/view/views/About';
 import Tech from './components/view/views/Tech';
 import Writing from './components/view/views/Writing';
-import Resume from './components/view/views/Resume';
+import Cv from './components/view/views/Cv';
 import Contact from './components/view/views/Contact';
 import PortfolioPage from './components/view/views/portfolio/PortfolioPage';
 import NotFound from './components/view/views/NotFound';
@@ -18,14 +18,38 @@ const App = () => {
         <div className='content'>
           <Header />
           <Router>
-            <Route path='/' component={Home} />
-            <Route path='/about' component={About} />
-            <Route path='/tech' component={Tech} />
-            <Route path='/tech/:type/:project' component={PortfolioPage} />
-            <Route path='/writing' component={Writing} />
-            <Route path='/resume' component={Resume} />
-            <Route path='/contact' component={Contact} />
-            <Route default component={NotFound} />
+            <Route
+              path='/'
+              component={Home}
+            />
+            <Route
+              path='/about'
+              component={About}
+            />
+            <Route
+              path='/tech'
+              component={Tech}
+            />
+            <Route
+              path='/tech/:type/:project'
+              component={PortfolioPage}
+            />
+            <Route
+              path='/writing'
+              component={Writing}
+            />
+            <Route
+              path='/cv'
+              component={Cv}
+            />
+            <Route
+              path='/contact'
+              component={Contact}
+            />
+            <Route
+              default
+              component={NotFound}
+            />
           </Router>
           <Footer />
         </div>

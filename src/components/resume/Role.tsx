@@ -20,10 +20,17 @@ export default class ResumeRole extends Component<ResumeRoleProps> {
   }
 
   render() {
-    return(
+    return (
       <Fragment>
         <p>
-          <strong>{this.props.company}</strong>, {this.props.title} ({this.props.startDate}{this.props.endDate != undefined ? ` - ${this.props.endDate}` : null})
+          <strong>{this.props.title}</strong>, {this.props.company}{' '}
+          <em>
+            ({this.props.startDate}
+            {this.props.endDate != undefined
+              ? ` - ${this.props.endDate}`
+              : null}
+            )
+          </em>
         </p>
         {this.props.children}
       </Fragment>

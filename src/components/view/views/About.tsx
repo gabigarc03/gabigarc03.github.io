@@ -30,8 +30,8 @@ export default class About extends Component {
               >
                 Early Career Digital Leadership Program
               </a>
-              . Thanks to ECDLP, I am also experienced in frontend development,
-              UX design, cybersecurity, and more.
+              . Thanks to ECDLP, I am experienced in frontend development, UX
+              design, cybersecurity, and more.
             </p>
             <p>
               Other technical work includes co-designing the{' '}
@@ -59,12 +59,12 @@ export default class About extends Component {
               project.
             </p>
             <p>
-              My plays have been featured at several festivals, including the
-              International Thespian Festival’s Thespian Playworks program,
-              Portland Center Stage’s Visions and Voices showcase, the Oregon
-              State Thespian Festival, the University of Chicago’s New Work
-              Week, and the One-Minute Play Project’s Coronavirus Plays Project.
-              I am published in{' '}
+              I'm also a writer. My plays have been featured at several
+              festivals, including the International Thespian Festival’s
+              Thespian Playworks program, Portland Center Stage’s Visions and
+              Voices showcase, the Oregon State Thespian Festival, the
+              University of Chicago’s New Work Week, and the One-Minute Play
+              Project’s Coronavirus Plays Project. I am published in{' '}
               <a
                 href='https://dramatics.org/'
                 target='_blank'
