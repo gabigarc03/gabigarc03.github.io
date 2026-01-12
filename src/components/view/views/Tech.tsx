@@ -11,7 +11,10 @@ class Tech extends Component {
         <h1>tech</h1>
 
         <h2>design work</h2>
-        <div class='card-grid'>
+        <div
+          class='card-grid'
+          style='padding-bottom: 32px;'
+        >
           {Portfolio.filter(proj => proj.type === 'design').map(proj => {
             return (
               <tech-card
@@ -27,10 +30,7 @@ class Tech extends Component {
         </div>
 
         <h2>dev work</h2>
-        <div
-          class='card-grid'
-          style='padding-bottom: 32px;'
-        >
+        <div class='card-grid'>
           {Portfolio.filter(proj => proj.type === 'dev').map(proj => {
             return (
               <tech-card
