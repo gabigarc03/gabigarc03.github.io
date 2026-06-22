@@ -21,7 +21,8 @@
     "react": "npm:@preact/compat@^18.3.2",
     "react-dom": "npm:@preact/compat@^18.3.2",
     "react-redux": "^9.3.0",
-    "styled-components": "^6.4.2"
+    "styled-components": "^6.4.2",
+    "zephyr-rsbuild-plugin": "^1.1.2"
   },
   "devDependencies": {
     "@rsbuild/core": "^1.7.5",
@@ -30,7 +31,6 @@
     "preactheadmaster": "^1.0.0",
     "sass": "^1.101.0",
     "sass-loader": "^16.0.8",
-    "typescript": "^5.9.3",
-    "zephyr-rsbuild-plugin": "^0.0.59"
+    "typescript": "^5.9.3"
   }
 }

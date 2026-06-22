@@ -15,6 +15,8 @@ export default class About extends Component {
             <p>
               Currently, I am seeking a London-based frontend/fullstack software
               engineering or UX design role. I am also open to freelance work.
+            </p>
+            <p>
               Prior to my recent move to the UK on a{' '}
               <a
                 href='https://www.gov.uk/high-potential-individual-visa'
