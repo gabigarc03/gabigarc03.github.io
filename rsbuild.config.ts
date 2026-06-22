@@ -9,7 +9,7 @@ export default defineConfig({
     pluginSass({
       rewriteUrls: false,
     }),
-    withZephyr(),
+    //withZephyr(),
   ],
   html: {
     title: 'G.C. Garcia',

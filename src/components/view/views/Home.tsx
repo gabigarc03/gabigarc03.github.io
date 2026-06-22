@@ -10,8 +10,7 @@ export default class Home extends Component {
           src={require('../../../assets/images/headshot.jpg')}
         ></img>
         <p>
-          I am a writer, software engineer, and UX designer seeking work in
-          London, England.
+          Hi! I am a London-based writer, software engineer, and UX designer.
         </p>
       </View>
     );

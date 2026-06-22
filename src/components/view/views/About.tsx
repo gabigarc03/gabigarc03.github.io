@@ -14,8 +14,10 @@ export default class About extends Component {
             </p>
             <p>
               Currently, I am seeking a London-based frontend/fullstack software
-              engineering or UX design role. Prior to my recent move to the UK
-              on a{' '}
+              engineering or UX design role. I am also open to freelance work.
+            </p>
+            <p>
+              Prior to my recent move to the UK on a{' '}
               <a
                 href='https://www.gov.uk/high-potential-individual-visa'
                 target='_blank'
@@ -58,13 +60,24 @@ export default class About extends Component {
               </a>{' '}
               project.
             </p>
+            <p>I'm also a writer.</p>{' '}
             <p>
-              I'm also a writer. My plays have been featured at several
-              festivals, including the International Thespian Festival’s
-              Thespian Playworks program, Portland Center Stage’s Visions and
-              Voices showcase, the Oregon State Thespian Festival, the
-              University of Chicago’s New Work Week, and the One-Minute Play
-              Project’s Coronavirus Plays Project. I am published in{' '}
+              My most recent writing can be found at{' '}
+              <a
+                href='https://worselocal.substack.com'
+                target='_blank'
+              >
+                Bad Tourist, Worse Local
+              </a>
+              , my blog where I'm documenting the new places I go each week.
+            </p>
+            <p>
+              My plays have been featured at several festivals, including the
+              International Thespian Festival’s Thespian Playworks program,
+              Portland Center Stage’s Visions and Voices showcase, the Oregon
+              State Thespian Festival, the University of Chicago’s New Work
+              Week, and the One-Minute Play Project’s Coronavirus Plays Project.
+              I am published in{' '}
               <a
                 href='https://dramatics.org/'
                 target='_blank'
@@ -78,8 +91,11 @@ export default class About extends Component {
               >
                 Concord Theatricals
               </a>
-              . My writing, including a translation, on more classical matters
-              has also appeared in the{' '}
+              .
+            </p>
+            <p>
+              Some of my other writing, including a translation, on more
+              classical matters has also appeared in the{' '}
               <a
                 href='https://voices.uchicago.edu/animus/'
                 target='_blank'

@@ -6,6 +6,51 @@ export default class Writing extends Component {
     return (
       <View name='writing'>
         <h1>writing</h1>
+        <h2>travel writing</h2>
+        <p>
+          <strong>
+            <a
+              href='https://worselocal.substack.com/'
+              target='_blank'
+            >
+              Bad Tourist, Worse Local
+            </a>
+          </strong>
+        </p>
+        <p>
+          My blog documenting a year of visiting places I haven't been once a
+          week. Highlights include:
+        </p>
+        <ul>
+          <li>
+            <a
+              href='https://worselocal.substack.com/p/abney-park-cemetery'
+              target='_blank'
+            >
+              Abney Park Cemetery
+            </a>
+            , the odd middle child of London's Magnificent Seven cemeteries
+          </li>
+          <li>
+            <a
+              href='https://worselocal.substack.com/p/barking-abbey'
+              target='_blank'
+            >
+              Barking Abbey
+            </a>
+            , the ruins of one of England's most powerful convents
+          </li>
+          <li>
+            <a
+              href='https://worselocal.substack.com/p/aberfeldy-street'
+              target='_blank'
+            >
+              Aberfeldy Street
+            </a>
+            , a temporary public art project brightening and unifying an East
+            End neighborhood
+          </li>
+        </ul>
         <h2>playwriting</h2>
         <p>
           <em>Ismene</em>
