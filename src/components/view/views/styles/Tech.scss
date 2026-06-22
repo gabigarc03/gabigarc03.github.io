@@ -1,0 +1,31 @@
+.card-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: space-between;
+  transition: 200ms ease-in-out;
+  width: 920px;
+  align-self: center;
+  // CONSTRAIN GRID WIDTH AT VARIOUS VIEWPOINTS
+}
+
+@media print, screen and (max-width: 1111px) {
+  .card-grid {
+    width: 450px;
+    justify-content: center;
+    align-self: center;
+  }
+}
+
+@media print, screen and (max-width: 498px) {
+  .card-grid {
+    width: 100%;
+  }
+}
+
+@media print, screen and (min-width: 1574px) {
+  .card-grid {
+    width: 1388px;
+  }
+}

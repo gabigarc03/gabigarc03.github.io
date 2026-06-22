@@ -1,0 +1,13 @@
+nav {
+  display: flex;
+  flex-direction: row;
+  gap: 4px 32px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media print, screen and (max-width: 800px) {
+  nav {
+    width: fit-content;
+  }
+}

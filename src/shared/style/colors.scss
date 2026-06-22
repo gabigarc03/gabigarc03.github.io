@@ -1,0 +1,17 @@
+@import 'primitives';
+
+:root {
+  // Text colors
+  --color-text-body-default: var(--color-brown-primary);
+  --color-text-header-default: var(--color-green-primary);
+  --color-text-link-default: var(--color-green-primary);
+  --color-text-link-hover: var(--color-green-light);
+  --color-text-link-pressed: var(--color-green-dark);
+
+  // Background colors
+  --color-background-default-light: var(--color-green-lightest);
+
+  // Border colors
+  --color-border-default: var(--color-green-light);
+  --color-border-dark: var(--color-green-primary);
+}

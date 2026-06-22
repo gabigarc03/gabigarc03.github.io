@@ -1,0 +1,24 @@
+a.social-link {
+  height: 32px;
+  width: 32px;
+  .social-icon {
+    height: 32px;
+    width: 32px;
+
+    path {
+      fill: var(--color-text-link-default);
+    }
+  }
+
+  &:hover {
+    .social-icon > path {
+      fill: var(--color-text-link-hover);
+    }
+  }
+
+  &:focus {
+    .social-icon > path {
+      fill: var(--color-text-link-pressed);
+    }
+  }
+}
